@@ -64,6 +64,10 @@ ul, li { margin:0; padding: 0; }
         display: table-cell;
         vertical-align: middle;
     }
+    background-image: url(../images/paillettes.png);
+    background-color: fade(black, 20%);
+    background-position: bottom;
+    background-repeat: repeat-x;
 }
 
 .logo {
@@ -72,9 +76,14 @@ ul, li { margin:0; padding: 0; }
 }
 
 .heading {
-    font-size: 4em;
     font-family: 'UniversLTStd-Black';
     color: white;
+    .center-block;
+    max-width: @screen-md;
+    h1 {
+        font-size: 5em;
+        line-height: 0.9em;
+    }
 }
 
 // /* my awesome theme here */
