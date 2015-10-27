@@ -2623,11 +2623,16 @@ li {
   vertical-align: middle;
 }
 .logo {
-  width: 360px;
+  width: 260px;
   display: block;
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 50px;
+}
+@media screen and (min-width: 768px) {
+  .logo {
+    width: 360px;
+  }
 }
 .heading {
   font-family: 'UniversLTStd-Black';
@@ -2638,9 +2643,31 @@ li {
   max-width: 992px;
   text-shadow: 1px 3px 15px #000;
 }
+.heading h1,
+.heading h2 {
+  line-height: 1em;
+}
 .heading h1 {
-  font-size: 5em;
-  line-height: 0.9em;
+  font-size: 2em;
+}
+.heading h2 {
+  font-size: 1.3em;
+}
+@media screen and (min-width: 480px) {
+  .heading h1 {
+    font-size: 3em;
+  }
+  .heading h2 {
+    font-size: 1.6em;
+  }
+}
+@media screen and (min-width: 768px) {
+  .heading h1 {
+    font-size: 5em;
+  }
+  .heading h2 {
+    font-size: 2.1em;
+  }
 }
 .btn {
   background: white;
