@@ -66,13 +66,14 @@ ul, li { margin:0; padding: 0; }
     }
     background-image: url(../images/paillettes.png);
     background-color: fade(black, 20%);
-    background-position: bottom;
+    background-position: left bottom;
     background-repeat: repeat-x;
 }
 
 .logo {
     width: 360px;
     .center-block;
+    margin-bottom: 50px;
 }
 
 .heading {
@@ -80,12 +81,20 @@ ul, li { margin:0; padding: 0; }
     color: white;
     .center-block;
     max-width: @screen-md;
+    text-shadow: 1px 3px 15px #000;
     h1 {
         font-size: 5em;
         line-height: 0.9em;
     }
 }
 
+.btn {
+    background: white;
+    color: black;
+    border: none;
+    border-radius: 0;
+    font-family: 'UniversLTStd-Black';
+}
 // /* my awesome theme here */
 
 // @w: 100%;
