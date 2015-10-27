@@ -18,6 +18,8 @@
   font-style: normal;
 }
 
+img { .img-responsive; }
+
 body {
     width: 100%;
     height: 100%;
@@ -35,6 +37,45 @@ html {
 // * { outline: 1px dotted red; }
 li { list-style-type: none; }
 ul, li { margin:0; padding: 0; }
+
+
+.intro {
+    background: url(../images/bg.jpg) no-repeat top center scroll;
+    background-position: top;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    position: absolute;
+    height: 100%;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+    overflow: hidden;
+}
+
+.table {
+    display: table;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    .cell {
+        display: table-cell;
+        vertical-align: middle;
+    }
+}
+
+.logo {
+    width: 360px;
+    .center-block;
+}
+
+.heading {
+    font-size: 4em;
+    font-family: 'UniversLTStd-Black';
+    color: white;
+}
 
 // /* my awesome theme here */
 
@@ -124,44 +165,26 @@ ul, li { margin:0; padding: 0; }
 // .top    { padding-top: @h-top; }
 // .bottom { padding-top: @h-bottom; }
 
-.intro {
-    background: url(../images/bg.jpg) no-repeat top center scroll;
-    background-position: top;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
-    position: absolute;
-    height: 100%;
-    top:0;
-    left:0;
-    right:0;
-    bottom:0;
-    overflow: hidden;
-}
-.in {
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    > div {
-        display: table;
-        text-align: center;
-        width: 100%;
-        text-align: center;
-        > h1 {
-            font-size: 4em;
-            padding-top: 100px;
-            font-family: 'UniversLTStd-Black';
-            height: 100%;
-            color: white;
-            vertical-align: middle;
-            display: table-cell;
-        }
-    }
 
-}
+// .in {
+//     position: absolute;
+//     top: 0;
+//     left: 0;
+//     right: 0;
+//     bottom: 0;
+//     > div {
+//         display: table;
+//         text-align: center;
+//         width: 100%;
+//         text-align: center;
+//         > h1 {
+//             padding-top: 100px;
+//             vertical-align: middle;
+//             display: table-cell;
+//         }
+//     }
+
+// }
 // .tagline {
 //     strong {
 //         font-weight: normal;
