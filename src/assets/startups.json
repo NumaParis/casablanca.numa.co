@@ -1,0 +1,1389 @@
+{
+  "startups": [
+    {
+      "name": "Tiller Systems",
+      "website": "www.tillersystems.com",
+      "logo": "images/logo/tiller.png",
+      "status": "active",
+      "season": "season6",
+      "tagline": "More than just a point of sale",
+      "tags":[ "media"],
+      "info": "A smart Point of Sale solution that merchants love. Tiller is a cool iPad-based cash register that brings all the data to the merchants through smart analytical reports and recommendations that help them save time, increase sales, and grow their business.",
+      "team": [
+        "Josef Bovet, CEO", "Dimitri Farber, CMO", "Vincent Oliveira, CTO"
+      ],
+      "connect": {
+        "mail": "contact@tillersystems.com",
+        "twitter": "http://www.twitter.com/Tillersystems"
+      }
+    },
+    {
+      "name": "Pour-Combien.com",
+      "website": "www.pour-combien.com",
+      "logo": "images/logo/pour-combien.png",
+      "status": "active",
+      "season": "rise",
+      "tagline": "Get connected with safe and reliable help in your neighborhood",
+      "tags":[ "media"],
+      "info": "Pick up the children after school, go to the dry cleaner, clean the house, prepare your moving and packing day, handiwork, gardening... There is never enough time in a day to get it all done! With our plateform, you are connected with safe and reliable help in the neighborhood to get your things done.  We are building a trustworthy community of people you can rely on anytime. Outsource your household errands and skilled tasks to trusted taskers in your community, or help your neighbors get their to-do’s done!",
+      "team": [
+        "Guillaume de Kergariou, CEO", "Pierre Klobb, CTO"
+      ],
+      "connect": {
+        "mail": "contact@pour-combien.com",
+        "twitter": "http://www.twitter.com/pourcombien"
+      }
+    },
+    {
+      "name": "Noosfeer",
+      "website": "www.noosfeer.com",
+      "logo": "images/logo/noosfeer.png",
+      "status": "active",
+      "season": "rise",
+      "tagline": "Expanding information access to everyone",
+      "tags":[ "media"],
+      "info": "Noosfeer is a web-app for reading web content while reducing mobile data usage. It has been meticulously designed for encouraging people to read more; hence, Noosfeer readers can access their articles at any time, anywhere. It works offline, without downloading a native app. Noosfeer has been created to offer a great reading experience across all mobile devices. From the latest iPhone to the oldest smartphone.",
+      "team": [
+        "Giovanni Solarte, CPO", "David Gordillo, CEO"
+      ],
+      "connect": {
+        "mail": "yourfriends@noosfeer.com",
+        "twitter": "http://www.twitter.com/noosfeer_"
+      }
+    },
+    {
+      "name": "La Box Culturelle",
+      "website": "www.laboxculturelle.com",
+      "logo": "images/logo/laboxculturelle.png",
+      "status": "active",
+      "season": "rise",
+      "tagline": "The Best way to boost your cultural life",
+      "tags":[ "cultural"],
+      "info": "Hard to choose from the wide range of events in the Parisian cultural scene. It’s usually expensive and a hassle. For people who hate to queue for tickets and waste their time surfing the web, we select the best art, theatre and culture! Every month, get a box filled with gifts and invitations to cultural events, for Parisians in a hurry who run out of ideas. Inside you will find tickets for the best plays, exhibitions and events, and a surprise gift (i.e. CD, DVD, or books)!",
+      "team": [
+        "Hermine Mauzé, CEO (founder)", "Gabriel Ecalle, CEO (co founder)"
+      ],
+      "connect": {
+        "mail": "contact@laboxculturelle.fr",
+        "twitter": "http://www.twitter.com/startupARTCHY"
+      }
+    },
+    {
+      "name": "Artchy",
+      "website": "artchy.io",
+      "logo": "images/logo/artchy.png",
+      "status": "active",
+      "season": "season6",
+      "tagline": "Unlocking the archives",
+      "tags":[ "archives"],
+      "info": "80% of the world’s records are sealed in boxes and many traces of human kinds biggest achievements are on their way to disappear because there is no money to digitize them. That’s why we’ve created Artchy, a unique marketplace between historical repositories and the people seduced by one exciting promise: feeling the thrill of owning a limited edition of a never-before-seen archive – one that resonates with their own passion for an iconic figure or special moment.",
+      "team": [
+        "Melanie Rozencwajg CEO", "Jhava Chikli CPO", "Tran Nguyen Ngoc CTO"
+      ],
+      "connect": {
+        "mail": "founders@artchy.io",
+        "twitter": "http://www.twitter.com/LaBoxCulturelle"
+      }
+    },
+    {
+      "name": "BackMarket",
+      "website": "backmarket.fr",
+      "logo": "images/logo/backmarket.png",
+      "status": "active",
+      "season": "rise",
+      "tagline": "The anti planned obsolescence shop",
+      "tags":[ "archives"],
+      "info": "Back market is the first marketplace exclusively dedicated to refurbished products. Our mission is to make the consumption of those refurbished devices cool, ethic and mainstream.",
+      "team": [
+        "Thibaud Hug de Larauze CEO", "Quentin Lebrouster, CTO", "Vianney Vaute, CMO"
+      ],
+      "connect": {
+        "mail": "hi@backmarket.fr",
+        "twitter": "http://www.twitter.com/@back_market"
+      }
+    },
+    {
+      "name": "UniqueSound",
+      "website": "uniquesound.com",
+      "logo": "images/logo/uniquesound.png",
+      "status": "active",
+      "season": "season6",
+      "tagline": "Videos will never sound the same",
+      "tags": ["the industry"],
+      "info": "to be filled up for each startup",
+      "team": [
+        "name CTO", "name CEO", "name CFO"
+      ],
+      "connect": {
+        "mail": "hello@uniquesound.com",
+        "facebook": "https://www.facebook.com/uniquesoundoff",
+        "twitter": "https://twitter.com/UniqueSoundOff",
+        "linkedin": "https://www.linkedin.com/company/uniquesound"
+      }
+    },
+    {
+      "name": "Soundsgood",
+      "website": "www.soundsgood.co",
+      "logo": "images/logo/soundsgood.png",
+      "status": "active",
+      "season": "season6",
+      "tagline": "Music curated with passion",
+      "tags":[ "music"],
+      "info": "Soundsgood is a new kind of music service where people listen to playlists curated with passion by top influencers. DJs, artists, medias and eclectic music lovers share their selections with Soundsgood to guide the music discovery of their audiences among the tons of songs coming out these days.",
+      "team": [
+        "Josquin Farge, CEO", "David Billamboz, CTO", "Louis Viallet, CMO"
+      ],
+      "connect": {
+        "mail": "contact@soundsgood.co",
+        "facebook": "https://www.facebook.com/sndsgoood",
+        "twitter": "https://twitter.com/sndsgoood",
+        "linkedin": "https://www.linkedin.com/company/3330094"
+      }
+    },    
+    {
+      "name": "Smyle",
+      "website": "www.smyle.io",
+      "logo": "images/logo/smyle.png",
+      "status": "active",
+      "season": "season6",
+      "tagline": "The firs bag and shoes visual comparison engine",
+      "tags":[ "fashion"],
+      "info": "Smyle is the first visual comparison engine for fashion. Thanks to the automatic understanding of the style of bags and shoes, Smyle guides the customer towards the best product at the best price.",
+      "team": [
+        "Augustin marty, CEO", "Alois brunel CPO", "Vincent Delaitre CTO"
+      ],
+      "connect": {
+        "mail": "contact@smyle.io",
+        "facebook": "https://www.facebook.com/Smyle.io",
+        "twitter": "https://twitter.com/@smyleio",
+        "linkedin": "https://www.linkedin.com/company/smyle-io"
+      }
+    },
+    {
+      "name": "Jam",
+      "website": "www.justjam.at",
+      "logo": "images/logo/jam.png",
+      "status": "active",
+      "season": "season6",
+      "tagline": "Every Student’s personal Assistant",
+      "tags": ["the industry"],
+      "info": "Jam is every student’s personal assistant. It is a mobile app for new generation students to experience college life to the fullest. We want our users to focus on the positives of what being in college entails not the negatives: Stress brought by the chalenges of finding internships, events to go to, housing, etc. Our goal is for students to just be students. Not housing-seekers, internships-sekers, or events-seekers; just students. And enjoy it.",
+      "team": [
+        "Marjolaine Grondin, CEO", "Loïc Delmaire, CTO", "Anas Arifi, CPO", "Paul Stiglitz, COO"
+      ],
+      "connect": {
+        "mail": "team@justjam.at",
+        "facebook": "https://www.facebook.com/pages/Jam/299724236866849?fref=ts",
+        "twitter": "@get_jam",
+        "linkedin": "https://www.linkedin.com/company/blackbird-co?trk=nmp_rec_act_company_name"
+      }
+    },
+    {
+      "name": "Birdly'",
+      "website": "getbirdly.com",
+      "logo": "images/logo/birdly.png",
+      "status": "active",
+      "season": "season6",
+      "tagline": "Focus on what matters in your job ",
+      "tags": ["Personal Finance"],
+      "info": "Birdly tackles the trivia of expense reports and helps professionals focus on what matters most. Birdly is the first employee-centric mobile application that makes the expense reporting experience completely seamless. We extract information from receipts and use data intelligence to determine the relevant client, project, or travel context of the expense.",
+      "team": [
+        "Quang HOANG CEO", "Jean-Baptiste COGER CPO", "William POLLET, CTO"
+      ],
+      "connect": {
+        "mail": "team@getbirdly.com",
+        "facebook": "https://www.facebook.com/pages/Kokot/624711224276699",
+        "twitter": "https://twitter.com/@getbirdly",
+        "linkedin": "https://www.linkedin.com/company/5307214?trk=tyah&trkInfo=tarId%3A1411483981315%2Ctas%3Akokot%2Cidx%3A2-2-7"
+      }
+    },
+    {
+      "name": "Sharette",
+      "website": "sharette.fr",
+      "logo": "images/logo/sharette.png",
+      "status": "active",
+      "season": "season6",
+      "tagline": "Sharette is a market place dedicated to mobility in urban areas, combining short-distance carpooling with the existing network of public transports.",
+      "tags": ["the industry"],
+      "info": "to be filled up for each startup",
+      "team": [
+        "name CTO", "name CEO", "name CFO"
+      ],
+      "connect": {
+        "mail": "contact@sharette.fr",
+        "facebook": "https://www.facebook.com/sharette.fr",
+        "twitter": "http://twitter.com/sharettefr"
+      }
+    },
+    {
+      "name": "Nunki",
+      "website": "www.nunki.co",
+      "logo": "images/logo/startuplogo.png",
+      "status": "active",
+      "season": "season6",
+      "tagline": "By the people, for the people",
+      "tags":[ "media"],
+      "info": "Nunki digs deep into social media in order to find the most amazing stories and content. Thanks to a powerful location-based technology processing millions of data in real time, Nunki helps media groups and brands to remove noise and make the most out of user-generated content. Nunki is also a free iPhone app that is pioneering in how it keeps up to date with breaking news and live entertainment, by bringing its users closer to the heart of the action, side by side with people already there.",
+      "team": [
+        "Quentin Lhomme, CEO", "Jean-Baptiste Janvier, CTO", "Quentin Lainé, CPO"
+      ],
+      "connect": {
+        "mail": "hello@nunki.co",
+        "twitter": "https://twitter.com/NunkiApp"
+      }
+    },
+    {
+    "name": "Pulpix",
+    "website": "www.pulpix.co",
+    "logo": "images/logo/pulpix.png",
+    "status": "active",
+    "season": "season6",
+    "tagline": "Engage your viewers",
+    "tags":[ "video"],
+    "info": "Pulpix turns your videos into customers acquisition channels, with a technology that displays calls-to-action directly within the video, called inVideo Cards. Pulpix offers different cards to match different objectives: Email Card to compile lists of emails, Social Card to capture fans and followers, Page Card to convert viewers into visitors, Shopping Card for one-click purchase, App Card for instant downloads from videos, etc. All these cards integrate seamlessly with your day to day business tools (Mailchimp, Salesforce, etc.)",
+    "team": [
+      "Sabry Otmani, CEO", "Denis Vilar, CTO"
+    ],
+    "connect": { 
+      "mail": "hello@pulpix.co",
+      "twitter": "http://twitter.com/pulpix"
+    }
+    },
+      {
+      "name": "SharePay",
+      "website": "www.sharepay.fr",
+      "logo": "images/logo/sharepay.png",
+      "status": "active",
+      "season": "season6",
+      "tagline": "Pay Together",
+      "tags":[ "finances"],
+      "info": "SharePay adresses the universal problem of daily shared expenses. Lea is a connected payment card designed for young couples. With each payment, it directly debits the personal card of each one, in real time.",
+      "team": [
+        "Jonas Braoudé, CPO", "David Finel, CEO", "Armen Mayalian, CTO"
+      ],
+      "connect": {
+        "mail": "contact@sharepay.fr",
+        "facebook": "https://www.facebook.com/SharePay",
+        "twitter": "http://twitter.com/sharepayers"
+      }
+    },
+    {
+      "name": "Drust",
+      "website": "drust.io",
+      "logo": "images/logo/drust.png",
+      "status": "active",
+      "season": "season6",
+      "tagline": "Be a Superdriver",
+      "tags":[ "auto"],
+      "info": "Akolyt from Drust is a dongle that connects the heart of your car to your smartphone. Once plugged on the diagnostic socket of your car, it syncs with a user-friendly and community app via Bluetooth. It brings its user individualized advice and solutions to drive smarter and save money on gas, insurance and repair. On the long run, the service aims to reduce the total cost of car ownership while it gives drivers the keys to a smarter mobility. Plug your Akolyt in. Be a Superdriver.",
+      "team": [
+        "Michael Fernandez, CEO", "Florent Pignal, CTO", "Pascal Galacteros, COO"
+      ],
+      "connect": {
+        "mail": "contact@drust.io",
+        "facebook": "https://www.facebook.com/meetdrust",
+        "twitter": "http://twitter.com/meetdrust"
+      }
+    },
+    {
+      "name": "Agriconomie",
+      "website": "www.agriconomie.com",
+      "logo": "images/logo/startuplogo.png",
+      "status": "active",
+      "season": "season5",
+      "tagline": "Agriconomie est le premier site de vente en ligne destiné aux achats agricoles.",
+      "tags": ["the industry"],
+      "info": "to be filled up for each startup",
+      "team": [
+        "name CTO", "name CEO", "name CFO"
+      ],
+      "connect": {}
+    },
+    {
+      "name": "Artips",
+      "website": "artips.fr",
+      "logo": "images/logo/artips.png",
+      "status": "active",
+      "season": "season5",
+      "tagline": "Artips, une dose d'art au quotidien : www.artips.fr\nRecevez chaque jour une anecdote inattendue sur une oeuvre d'art connue ou moins connue. \nUn email à lire en une minute.",
+      "tags": ["the industry"],
+      "info": "to be filled up for each startup",
+      "team": [
+        "name CTO", "name CEO", "name CFO"
+      ],
+      "connect": {
+        "mail": "colineetjean@artips.fr",
+        "facebook": "https://www.facebook.com/artipsfr",
+        "twitter": "http://twitter.com/Artips_fr"
+      }
+    },
+    {
+      "name": "BandSquare",
+      "website": "www.bandsquare.com",
+      "logo": "images/logo/startuplogo.png",
+      "status": "active",
+      "season": "season5",
+      "tagline": "BandSquare rapproche artistes et fans pour créer ensemble des concerts exceptionnels et vivre des moments privilégiés.",
+      "tags": ["the industry"],
+      "info": "to be filled up for each startup",
+      "team": [
+        "name CTO", "name CEO", "name CFO"
+      ],
+      "connect": {
+        "mail": "contact@bandsquare.fr",
+        "facebook": "https://www.facebook.com/BandSquare.liveconcerts",
+        "twitter": "http://twitter.com/bandsquarelive"
+      }
+    },
+    {
+      "name": "Hublo",
+      "website": "www.hublo.com",
+      "logo": "images/logo/startuplogo.png",
+      "status": "active",
+      "season": "season5",
+      "tagline": "Engagement analytics without coding.",
+      "tags": ["the industry"],
+      "info": "to be filled up for each startup",
+      "team": [
+        "name CTO", "name CEO", "name CFO"
+      ],
+      "connect": {
+        "mail": "founders@hublo.co",
+        "facebook": "https://www.facebook.com/leo.goffic",
+        "twitter": "https://twitter.com/twyril",
+        "angelist": "http://www.angelist.co/hublo",
+        "linkedin": "http://www.linkedin.com/in/lescaon"
+      }
+    },
+    {
+      "name": "Krack",
+      "website": "krack.co",
+      "logo": "images/logo/startuplogo.png",
+      "status": "active",
+      "season": "season5",
+      "tagline": "hardware for skateboarders - we enhance the skateboarding experience - making them connect and compete b/w each others.",
+      "tags": ["the industry"],
+      "info": "to be filled up for each startup",
+      "team": [
+        "name CTO", "name CEO", "name CFO"
+      ],
+      "connect": {
+        "mail": "hello@krack.co",
+        "facebook": "http://facebook.com/heykrack",
+        "twitter": "http://www.twitter.com/heykrack",
+        "angelist": "http://www.angelist.co/krack"
+      }
+    },
+    {
+      "name": "LocalEyes",
+      "website": "www.localeyes-app.com",
+      "logo": "images/logo/startuplogo.png",
+      "status": "active",
+      "season": "season5",
+      "tagline": "LOCALEYES is a mobile app that allows anyone to earn MONEY by answering questions and taking pictures in store for brands and retailers.",
+      "tags": ["the industry"],
+      "info": "to be filled up for each startup",
+      "team": [
+        "name CTO", "name CEO", "name CFO"
+      ],
+      "connect": {
+        "mail": "support@localeyes-app.com",
+        "facebook": "https://www.facebook.com/localeyesapp",
+        "twitter": "https://twitter.com/Localeyes_app",
+        "linkedin": "http://www.linkedin.com/company/localeyes-app?trk=tabs_biz_home"
+      }
+    },
+    {
+      "name": "Qleek.me",
+      "website": "www.qleek.me",
+      "logo": "images/logo/startuplogo.png",
+      "status": "active",
+      "season": "season5",
+      "tagline": "Qleek allows you to share with people your digital life by putting your most beloved songs, films and photographs in the real world.",
+      "tags": ["the industry"],
+      "info": "to be filled up for each startup",
+      "team": [
+        "name CTO", "name CEO", "name CFO"
+      ],
+      "connect": {
+        "mail": "hey@qleek.me",
+        "facebook": "http://facebook.com/qleek",
+        "twitter": "http://www.twitter.com/qleekr"
+      }
+    },
+    {
+      "name": "Realytics",
+      "website": "www.realytics.io",
+      "logo": "images/logo/realytics.png",
+      "status": "active",
+      "season": "season5",
+      "tagline": "Measure your TV ad’s impact and target the best audience",
+      "tags":[ "ads"],
+      "info": "Realytics measures and analyzes in real time the “drive to web” TV advertising’s online impact in order to optimize the mediaplanning and the ROI of TV campaigns. Thanks to our platform, advertisers and media agencies now have access to the data and analysis they never had before enabling them to pilote and improve their offline advertising investments.",
+      "team": [
+        "Guillaume Belmas, CEO", "Grégory Bittan, Software Architect", "Sébastien Monteil, CTO", "Vincent Nguyen-Huu, UX & Customers Manager"
+      ],
+      "connect": {
+        "mail": "hello@realytics.io",
+        "facebook": "http://facebook.com/realyticsio",
+        "twitter": "http://www.twitter.com/realyticsio",
+        "linkedin": "http://www.linkedin.com/company/realytics"
+      }
+    },
+    {
+      "name": "StreamRoot",
+      "website": "www.streamroot.io",
+      "logo": "images/logo/startuplogo.png",
+      "status": "active",
+      "season": "season5",
+      "tagline": "StreamRoot is a smart peer-to-peer video streaming solution that drastically  reduces bandwidth costs for web video platforms, and improves the quality of service for the end users.",
+      "tags": ["the industry"],
+      "info": "to be filled up for each startup",
+      "team": [
+        "name CTO", "name CEO", "name CFO"
+      ],
+      "connect": {
+        "mail": "foudners@streamroot.io",
+        "facebook": "https://www.facebook.com/StreamRoot",
+        "twitter": "https://twitter.com/StreamRoot",
+        "linkedin": "http://www.linkedin.com/company/streamroot"
+      }
+    },
+    {
+      "name": "Takes",
+      "website": "takes.io",
+      "logo": "images/logo/takes.png",
+      "status": "active",
+      "season": "season5",
+      "tagline": "A simple way to get feedbacks on your videos, for videomakers, agencies, and production teams.",
+      "tags": ["the industry"],
+      "info": "to be filled up for each startup",
+      "team": [
+        "name CTO", "name CEO", "name CFO"
+      ],
+      "connect": {
+        "mail": "contact@taketracker.com",
+        "facebook": "http://facebook.com/taketracker",
+        "twitter": "http://www.twitter.com/taketracker"
+      }
+    },
+    {
+      "name": "TasteHit",
+      "website": "tastehit.com",
+      "logo": "images/logo/startuplogo.png",
+      "status": "active",
+      "season": "season5",
+      "tagline": "TasteHit is a personalisation service for e-commerce websites",
+      "tags": ["the industry"],
+      "info": "to be filled up for each startup",
+      "team": [
+        "name CTO", "name CEO", "name CFO"
+      ],
+      "connect": {
+        "mail": "contact@tastehit.com",
+        "facebook": "http://facebook.com/tastehit",
+        "twitter": "http://www.twitter.com/TasteHit",
+        "linkedin": "http://www.linkedin.com/company/tastehit"
+      }
+    },
+    {
+      "name": "Tripndrive",
+      "website": "pndrive.com",
+      "logo": "images/logo/startuplogo.png",
+      "status": "active",
+      "season": "season5",
+      "tagline": "Tripndrive enables carsharing between travelers at the airport.\nOwners get a free parking.\nRenters get a car 60% cheaper than traditional car rental.",
+      "tags": ["the industry"],
+      "info": "to be filled up for each startup",
+      "team": [
+        "name CTO", "name CEO", "name CFO"
+      ],
+      "connect": {
+        "mail": "camille@tripndrive.com",
+        "facebook": "http://www.facebook.com/Tripndrive",
+        "twitter": "http://twitter.com/tripndrive",
+        "linkedin": "http://www.linkedin.com/company/tripndrive"
+      }
+    },
+    {
+      "name": "Auticiel",
+      "website": "www.auticiel.com",
+      "logo": "images/logo/startuplogo.png",
+      "status": "active",
+      "season": "season4",
+      "tagline": "We develop software tools that cognitively impaired people can use in the everyday life to better communicate, to better interact and to be better integrated in the society.",
+      "tags": ["the industry"],
+      "info": "to be filled up for each startup",
+      "team": [
+        "name CTO", "name CEO", "name CFO"
+      ],
+      "connect": {
+        "mail": "contact@auticiel.com",
+        "facebook": "https://www.facebook.com/pages/Auticiel/213886215369115",
+        "twitter": "https://twitter.com/Auticiel",
+        "linkedin": "http://www.linkedin.com/company/auticiel"
+      }
+    },
+    {
+      "name": "Cours avenue",
+      "website": "www.coursavenue.com",
+      "logo": "images/logo/startuplogo.png",
+      "status": "active",
+      "season": "season4",
+      "tagline": "Geolocalized leisure courses (dance, music, art, etc.) search engine based on students recommendation.",
+      "tags": ["the industry"],
+      "info": "to be filled up for each startup",
+      "team": [
+        "name CTO", "name CEO", "name CFO"
+      ],
+      "connect": {
+        "mail": "contact@coursavenue.com",
+        "facebook": "https://www.facebook.com/CoursAvenue",
+        "twitter": "http://www.twitter.com/CoursAvenue"
+      }
+    },
+    {
+      "name": "Darjeelin",
+      "website": "www.darjeelin.com",
+      "logo": "images/logo/startuplogo.png",
+      "status": "exited",
+      "season": "season4",
+      "tagline": "The crowdsourced travel agency",
+      "tags": ["the industry"],
+      "info": "to be filled up for each startup",
+      "team": [
+        "name CTO", "name CEO", "name CFO"
+      ],
+      "connect": {
+        "mail": "hello@darjeelin.com",
+        "facebook": "http://facebook.com/darjeelin.travel",
+        "twitter": "http://www.twitter.com/_Darjeelin_",
+        "angelist": "https://angel.co/darjeelin-1"
+      }
+    },
+    {
+      "name": "Decovery",
+      "website": "www.decovery.fr",
+      "logo": "images/logo/startuplogo.png",
+      "status": "active",
+      "season": "season4",
+      "tagline": "Largest community of home design experts to help homeowners transform their interiors",
+      "tags": ["the industry"],
+      "info": "to be filled up for each startup",
+      "team": [
+        "name CTO", "name CEO", "name CFO"
+      ],
+      "connect": {
+        "mail": "contact@decovery.fr",
+        "facebook": "http://facebook.com/Decovery",
+        "twitter": "http://www.twitter.com/Decovery",
+        "angelist": "http://www.angelist.co/decovery",
+        "linkedin": "http://www.linkedin.com/Decovery"
+      }
+    },
+    {
+      "name": "Lingocracy",
+      "website": "www.lingocracy.com",
+      "logo": "images/logo/startuplogo.png",
+      "status": "active",
+      "season": "season4",
+      "tagline": "Improve your language skills by reading news",
+      "tags": ["the industry"],
+      "info": "to be filled up for each startup",
+      "team": [
+        "name CTO", "name CEO", "name CFO"
+      ],
+      "connect": {
+        "mail": "yan@lingocracy.com",
+        "facebook": "http://facebook.com/Lingocracy",
+        "twitter": "http://www.twitter.com/Lingocracy",
+        "angelist": "http://www.angelist.co/lingocracy"
+      }
+    },
+    {
+      "name": "Melusyn",
+      "website": "www.melusyn.com",
+      "logo": "images/logo/startuplogo.png",
+      "status": "active",
+      "season": "season4",
+      "tagline": "Film production management made fast and easy in the cloud",
+      "tags": ["the industry"],
+      "info": "to be filled up for each startup",
+      "team": [
+        "name CTO", "name CEO", "name CFO"
+      ],
+      "connect": {
+        "mail": "hello@melusyn.com",
+        "facebook": "http://facebook.com/MelusynFR",
+        "twitter": "http://www.twitter.com/melusyn",
+        "angelist": "https://angel.co/melusyn"
+      }
+    },
+    {
+      "name": "Pricing Assistant",
+      "website": "www.pricingassistant.com",
+      "logo": "images/logo/startuplogo.png",
+      "status": "active",
+      "season": "season4",
+      "tagline": "Pricing optimization solution for e-merchants and brands",
+      "tags": ["the industry"],
+      "info": "to be filled up for each startup",
+      "team": [
+        "name CTO", "name CEO", "name CFO"
+      ],
+      "connect": {
+        "mail": "contact@pricingassistant.com",
+        "facebook": "http://facebook.com/pricingassistant",
+        "twitter": "http://www.twitter.com/pricingassistnt",
+        "angelist": "https://angel.co/pricing-assistant",
+        "linkedin": "http://www.linkedin.com/company/pricingassistant"
+      }
+    },
+    {
+      "name": "Smiirl",
+      "website": "www.smiirl.com",
+      "logo": "images/logo/startuplogo.png",
+      "status": "active",
+      "season": "season4",
+      "tagline": "Smart objects to integrate social media in real life",
+      "tags": ["the industry"],
+      "info": "to be filled up for each startup",
+      "team": [
+        "name CTO", "name CEO", "name CFO"
+      ],
+      "connect": {
+        "mail": "r2d2@smiirl.com",
+        "facebook": "http://facebook.com/smiirl",
+        "twitter": "http://www.twitter.com/smiirl",
+        "angelist": "http://www.angelist.co/smiirl",
+        "linkedin": "http://www.linkedin.com/company/smiirl"
+      }
+    },
+    {
+      "name": "SOAP (ex znappit)",
+      "website": "www.soapapp.co",
+      "logo": "images/logo/startuplogo.png",
+      "status": "active",
+      "season": "season4",
+      "tagline": "SOAP is a mobile app that turns you life into a video story, on your own, or with your friends.",
+      "tags": ["the industry"],
+      "info": "to be filled up for each startup",
+      "team": [
+        "name CTO", "name CEO", "name CFO"
+      ],
+      "connect": {
+        "mail": "we@znapp.it",
+        "facebook": "http://facebook.com/znappit",
+        "twitter": "http://www.twitter.com/znappit",
+        "angelist": "http://www.angelist.co/znappit",
+        "linkedin": "http://www.linkedin.com/company/znappit"
+      }
+    },
+    {
+      "name": "Sportdub",
+      "website": "www.sportdub.com",
+      "logo": "images/logo/startuplogo.png",
+      "status": "active",
+      "season": "season4",
+      "tagline": "Live sport commentaries by sport fans, for sport fans.",
+      "tags": ["the industry"],
+      "info": "to be filled up for each startup",
+      "team": [
+        "name CTO", "name CEO", "name CFO"
+      ],
+      "connect": {
+        "facebook": "http://facebook.com/Sportdub",
+        "twitter": "http://www.twitter.com/sportdub",
+        "linkedin": "http://www.linkedin.com/sportdub"
+      }
+    },
+    {
+      "name": "Wepopp",
+      "website": "www.wepopp.com",
+      "logo": "images/logo/startuplogo.png",
+      "status": "active",
+      "season": "season4",
+      "tagline": "Easy planning with friends",
+      "tags": ["the industry"],
+      "info": "to be filled up for each startup",
+      "team": [
+        "name CTO", "name CEO", "name CFO"
+      ],
+      "connect": {
+        "mail": "contact@wepopp.com",
+        "facebook": "https://www.facebook.com/wepopp",
+        "twitter": "https://twitter.com/WePopp_",
+        "angelist": "https://angel.co/wepopp",
+        "linkedin": "http://www.linkedin.com/company/popp-"
+      }
+    },
+    {
+      "name": "Zéro-gâchis",
+      "website": "www.zero-gachis.com",
+      "logo": "images/logo/startuplogo.png",
+      "status": "active",
+      "season": "season4",
+      "tagline": "Fights against food waste by providing tools and services to the supermarkets.",
+      "tags": ["the industry"],
+      "info": "to be filled up for each startup",
+      "team": [
+        "name CTO", "name CEO", "name CFO"
+      ],
+      "connect": {
+        "mail": "contact@zero-gachis.com",
+        "facebook": "http://facebook.com/ZeroGachis",
+        "twitter": "http://www.twitter.com/ZeroGachis",
+        "angelist": "https://angel.co/z-ro-g-chis-1",
+        "linkedin": "http://www.linkedin.com/company/z-ro-g-chis"
+      }
+    },
+    {
+      "name": "Augment",
+      "website": "agmt.co",
+      "logo": "images/logo/startuplogo.png",
+      "status": "active",
+      "season": "season3",
+      "tagline": "Augment is a mobile app that lets you and your customers visualize your 3D models in Augmented Reality, integrated in real time in their actual size and environment. Augment is the perfect Augmented Reality app to boost your sales and bring your print to life in 3 simple steps.",
+      "tags": ["the industry"],
+      "info": "to be filled up for each startup",
+      "team": [
+        "name CTO", "name CEO", "name CFO"
+      ],
+      "connect": {
+        "mail": "contact@agmt.co",
+        "facebook": "https://www.facebook.com/pages/AugmenteDev/190277567680189?ref=hl",
+        "twitter": "https://twitter.com/AugmenteDev",
+        "angelist": "https://angel.co/augment",
+        "linkedin": "http://www.linkedin.com/company/augment"
+      }
+    },
+    {
+      "name": "Explee",
+      "website": "explee.com",
+      "logo": "images/logo/startuplogo.png",
+      "status": "active",
+      "season": "season3",
+      "tagline": "Create amazing animated videos and presentations, engage your audience!",
+      "tags": ["the industry"],
+      "info": "to be filled up for each startup",
+      "team": [
+        "name CTO", "name CEO", "name CFO"
+      ],
+      "connect": {
+        "mail": "contact@explee.com",
+        "facebook": "http://facebook.com/explee",
+        "twitter": "http://www.twitter.com/explee",
+        "angelist": "http://www.angelist.co/explee"
+      }
+    },
+    {
+      "name": "Fleex",
+      "website": "fleex.tv",
+      "logo": "images/logo/startuplogo.png",
+      "status": "active",
+      "season": "season3",
+      "tagline": "We help people get better at English watching the videos they love.",
+      "tags": ["the industry"],
+      "info": "to be filled up for each startup",
+      "team": [
+        "name CTO", "name CEO", "name CFO"
+      ],
+      "connect": {
+        "mail": "contact@fleex.tv",
+        "facebook": "https://www.facebook.com/fleextv",
+        "twitter": "https://twitter.com/fleextv",
+        "angelist": "https://angel.co/fleex"
+      }
+    },
+    {
+      "name": "Home'n'go",
+      "website": "homengo.com",
+      "logo": "images/logo/startuplogo.png",
+      "status": "active",
+      "season": "season3",
+      "tagline": "Home’n’go est un service entièrement gratuit qui centralise toutes les annonces immobilières des principaux sites immobiliers et vous permet, grâce à des données privées et publiques, d’obtenir des informations détaillées et pertinentes concernant la vie autour du logement qui vous intéresse.\nPrécisez vos critères en quelques clics pour faire le tri dans plusieurs millions d’annonces et utilisez votre espace privé pour gérer celles qui vous plaisent, y inviter vos amis ou votre famille pour vous faire aider dans votre recherche, accéder aux informations relatives à la zone du logement et faire le bon choix !",
+      "tags": ["the industry"],
+      "info": "to be filled up for each startup",
+      "team": [
+        "name CTO", "name CEO", "name CFO"
+      ],
+      "connect": {
+        "mail": "contact@homengo.com",
+        "facebook": "http://facebook.com/homengofan",
+        "twitter": "http://www.twitter.com/home_n_go",
+        "angelist": "http://angel.co/home-n-go",
+        "linkedin": "http://fr.linkedin.com/company/home'n'go"
+      }
+    },
+    {
+      "name": "Jellynote",
+      "website": "www.jellynote.com",
+      "logo": "images/logo/startuplogo.png",
+      "status": "active",
+      "season": "season3",
+      "tagline": "♬ Everything you need pour play music ♪ A Guitar Hero with real music & real instruments ♬",
+      "tags": ["the industry"],
+      "info": "to be filled up for each startup",
+      "team": [
+        "name CTO", "name CEO", "name CFO"
+      ],
+      "connect": {
+        "mail": "support@jellynote.com",
+        "facebook": "https://www.facebook.com/JellyNote",
+        "twitter": "https://twitter.com/jellynote",
+        "angelist": "http://www.angelist.co/jellynote",
+        "linkedin": "http://www.linkedin.com/company/jellynote‎"
+      }
+    },
+    {
+      "name": "Lima (ex ForgetBox)",
+      "website": "meetlima.com",
+      "logo": "images/logo/startuplogo.png",
+      "status": "active",
+      "season": "season3",
+      "tagline": "Lima is the first product to unify the memory of all your devices. It manages your files instead of Windows, Mac OS or your mobile OS, so all your devices display the same content at all times. \n\nNow, all your PC files are also in your smartphone. Every file you save is saved on all your devices. Re-organize one of your devices, it reorganizes all of them.",
+      "tags": ["the industry"],
+      "info": "to be filled up for each startup",
+      "team": [
+        "name CTO", "name CEO", "name CFO"
+      ],
+      "connect": {
+        "mail": "team@meetlima.com",
+        "facebook": "https://www.facebook.com/MeetLima",
+        "twitter": "http://www.twitter.com/MeetLima",
+        "angelist": "https://angel.co/lima-1",
+        "linkedin": "http://www.linkedin.com/company/3544137?trk=tyah&trkInfo=tas%3Aforgetbox%2Cidx%3A1-1-1"
+      }
+    },
+    {
+      "name": "Poutsh",
+      "website": "poutsch.com",
+      "logo": "images/logo/startuplogo.png",
+      "status": "active",
+      "season": "season3",
+      "tagline": "Collect, express and make sense of opinions.",
+      "tags": ["the industry"],
+      "info": "to be filled up for each startup",
+      "team": [
+        "name CTO", "name CEO", "name CFO"
+      ],
+      "connect": {
+        "mail": "melchior@poutsch.com",
+        "facebook": "http://facebook.com/poutsch",
+        "twitter": "http://www.twitter.com/poutsch",
+        "angelist": "http://www.angelist.co/poutsch",
+        "linkedin": "http://www.linkedin.com/poutsch"
+      }
+    },
+    {
+      "name": "Sketchfab",
+      "website": "sketchfab.com",
+      "logo": "images/logo/startuplogo.png",
+      "status": "active",
+      "season": "season3",
+      "tagline": "Sketchfab is the web platform to publish your interactive 3D models.",
+      "tags": ["the industry"],
+      "info": "to be filled up for each startup",
+      "team": [
+        "name CTO", "name CEO", "name CFO"
+      ],
+      "connect": {
+        "facebook": "http://facebook.com/sketchfab",
+        "twitter": "http://www.twitter.com/sketchfab",
+        "angelist": "http://www.angelist.co/skethcfab",
+        "linkedin": "http://www.linkedin.com/company/sketchfab"
+      }
+    },
+    {
+      "name": "Stormz",
+      "website": "stormz.me",
+      "logo": "images/logo/startuplogo.png",
+      "status": "active",
+      "season": "season3",
+      "tagline": "Meetings are boring and ineffective! \n\nWe design solutions that change the way we work together. Use Stormz (http://stormz.me) to facilitate awesome collaborative workshops and get Deezco (http://deez.co) to gather advices and take decisions that will grow your business.",
+      "tags": ["the industry"],
+      "info": "to be filled up for each startup",
+      "team": [
+        "name CTO", "name CEO", "name CFO"
+      ],
+      "connect": {
+        "mail": "contact@stormz.me",
+        "facebook": "http://facebook.com/stormz.me",
+        "twitter": "http://www.twitter.com/stormzplatform",
+        "angelist": "https://angel.co/stormz",
+        "linkedin": "http://www.linkedin.com/company/stormz"
+      }
+    },
+    {
+      "name": "Veezio",
+      "website": "veezio.com",
+      "logo": "images/logo/startuplogo.png",
+      "status": "dead",
+      "season": "season3",
+      "tagline": "Veezio is a fully automatic video analysis, optimization and indexing platform.",
+      "tags": ["the industry"],
+      "info": "to be filled up for each startup",
+      "team": [
+        "name CTO", "name CEO", "name CFO"
+      ],
+      "connect": {
+        "mail": "contact@veezio.com",
+        "twitter": "http://www.twitter.com/veezio",
+        "angelist": "https://angel.co/veezio"
+      }
+    },
+    {
+      "name": "Webshell",
+      "website": "oauth.io",
+      "logo": "images/logo/startuplogo.png",
+      "status": "active",
+      "season": "season3",
+      "tagline": "Webshell enables web and mobile developers to make application faster by saving 80% of time for using APIs. Webshell is the team behind OAuth.io.",
+      "tags": ["the industry"],
+      "info": "to be filled up for each startup",
+      "team": [
+        "name CTO", "name CEO", "name CFO"
+      ],
+      "connect": {
+        "mail": "contact@webshell.io",
+        "twitter": "http://twitter.com/OAuth_io",
+        "angelist": "http://angel.co/webshell"
+      }
+    },
+    {
+      "name": "Whale Street",
+      "website": "",
+      "logo": "images/logo/startuplogo.png",
+      "status": "active",
+      "season": "season3",
+      "tagline": "",
+      "tags": ["the industry"],
+      "info": "to be filled up for each startup",
+      "team": [
+        "name CTO", "name CEO", "name CFO"
+      ],
+      "connect": {}
+    },
+    {
+      "name": "HereWeDate",
+      "website": "",
+      "logo": "images/logo/startuplogo.png",
+      "status": "dead",
+      "season": "season2",
+      "tagline": "",
+      "tags": ["the industry"],
+      "info": "to be filled up for each startup",
+      "team": [
+        "name CTO", "name CEO", "name CFO"
+      ],
+      "connect": {}
+    },
+    {
+      "name": "Infinit",
+      "website": "www.infinit.io",
+      "logo": "images/logo/startuplogo.png",
+      "status": "active",
+      "season": "season2",
+      "tagline": "A fast, elegant and unlimited file transfer application for creative people.",
+      "tags": ["the industry"],
+      "info": "to be filled up for each startup",
+      "team": [
+        "name CTO", "name CEO", "name CFO"
+      ],
+      "connect": {
+        "mail": "contact@infinit.io",
+        "facebook": "https://www.facebook.com/infinitdotio",
+        "twitter": "https://twitter.com/infinitdotio",
+        "angelist": "https://angel.co/infinit",
+        "linkedin": "http://www.linkedin.com/company/2393438"
+      }
+    },
+    {
+      "name": "LoungeUp",
+      "website": "www.loungeup.com",
+      "logo": "images/logo/startuplogo.png",
+      "status": "active",
+      "season": "season2",
+      "tagline": "Mobile Guest Relationship Management Platform for the hospitality industry",
+      "tags": ["the industry"],
+      "info": "to be filled up for each startup",
+      "team": [
+        "name CTO", "name CEO", "name CFO"
+      ],
+      "connect": {
+        "mail": "contact@loungeup.com",
+        "facebook": "http://facebook.com/loungeup",
+        "twitter": "http://www.twitter.com/loungeup",
+        "angelist": "http://www.angelist.co/loungeup",
+        "linkedin": "http://www.linkedin.com/company/loungeup"
+      }
+    },
+    {
+      "name": "Oleapark",
+      "website": "oleapark.com",
+      "logo": "images/logo/startuplogo.png",
+      "status": "dead",
+      "season": "season2",
+      "tagline": "Your social event badge. Offer the best mobile networking experience to your attendees.",
+      "tags": ["the industry"],
+      "info": "to be filled up for each startup",
+      "team": [
+        "name CTO", "name CEO", "name CFO"
+      ],
+      "connect": {
+        "twitter": "https://twitter.com/oleapark",
+        "facebook": "https://www.facebook.com/oleapark"
+      }
+    },
+    {
+      "name": "Onefeat",
+      "website": "",
+      "logo": "images/logo/startuplogo.png",
+      "status": "dead",
+      "season": "season2",
+      "tagline": "",
+      "tags": ["the industry"],
+      "info": "to be filled up for each startup",
+      "team": [
+        "name CTO", "name CEO", "name CFO"
+      ],
+      "connect": {}
+    },
+    {
+      "name": "Pictarine",
+      "website": "www.pictarine.com",
+      "logo": "images/logo/startuplogo.png",
+      "status": "active",
+      "season": "season2",
+      "tagline": "Pictarine aggregates your photos from your social networks",
+      "tags": ["the industry"],
+      "info": "to be filled up for each startup",
+      "team": [
+        "name CTO", "name CEO", "name CFO"
+      ],
+      "connect": {
+        "mail": "contact@pictarine.com",
+        "facebook": "http://facebook.com/pictarine",
+        "twitter": "http://www.twitter.com/pictarine",
+        "angelist": "http://www.angelist.co/pictarine",
+        "linkedin": "http://www.linkedin.com/pictarine"
+      }
+    },
+    {
+      "name": "Pili Pop",
+      "website": "www.pilipop.com",
+      "logo": "images/logo/pilipop.png",
+      "status": "active",
+      "season": "season2",
+      "tagline": "Fun today fluent tomorrow",
+      "tags":[ "education"],
+      "info": "Pili Pop is an easy & fun way for kids to master a foreign language on tablets. Kids get fluent by practicing on daily basis with Pili Pop’s innovative method combining exciting games with a unique voice recognition technology.",
+      "team": [
+        "Eugene Ernoult CEO", "Elsa Prieto CTO", "Soiny Duval CDO"
+      ],
+      "connect": {
+        "mail": "hello@pilipop.com",
+        "facebook": "http://facebook.com/pilipoplabs",
+        "twitter": "http://www.twitter.com/pilipoplabs",
+        "angelist": "http://www.angelist.co/pili-pop"
+      }
+    },
+    {
+      "name": "qunb",
+      "website": "qunb.com",
+      "logo": "images/logo/startuplogo.png",
+      "status": "exited",
+      "season": "season2",
+      "tagline": "qunb helps anyone turn their most valuable data into compelling / visual / actionable stories.",
+      "tags": ["the industry"],
+      "info": "to be filled up for each startup",
+      "team": [
+        "name CTO", "name CEO", "name CFO"
+      ],
+      "connect": {
+        "mail": "hello@qunb.com",
+        "facebook": "http://facebook.com/qunb",
+        "twitter": "http://www.twitter.com/qunb",
+        "angelist": "http://www.angelist.co/qunb",
+        "linkedin": "http://www.linkedin.com/qunb"
+      }
+    },
+    {
+      "name": "Siz - by Viewrz",
+      "website": "siz.io",
+      "logo": "images/logo/startuplogo.png",
+      "status": "active",
+      "season": "season2",
+      "tagline": "Siz.io. Social bookmarking for videos. Sponsored content campaigns for brands.",
+      "tags": ["the industry"],
+      "info": "to be filled up for each startup",
+      "team": [
+        "name CTO", "name CEO", "name CFO"
+      ],
+      "connect": {
+        "mail": "contact@siz.io",
+        "facebook": "http://facebook.com/siz.io",
+        "twitter": "http://www.twitter.com/siz_io",
+        "angelist": "https://angel.co/viewrz",
+        "linkedin": "http://www.linkedin.com/company/viewrz"
+      }
+    },
+    {
+      "name": "Skimm!",
+      "website": "",
+      "logo": "images/logo/startuplogo.png",
+      "status": "dead",
+      "season": "season2",
+      "tagline": "",
+      "tags": ["the industry"],
+      "info": "to be filled up for each startup",
+      "team": [
+        "name CTO", "name CEO", "name CFO"
+      ],
+      "connect": {}
+    },
+    {
+      "name": "TVShow Time (Toze Labs SAS)",
+      "website": "www.tvshowtime.com",
+      "logo": "images/logo/startuplogo.png",
+      "status": "active",
+      "season": "season2",
+      "tagline": "TVShow Time lets you track, comment and watch your TV shows.",
+      "tags": ["the industry"],
+      "info": "to be filled up for each startup",
+      "team": [
+        "name CTO", "name CEO", "name CFO"
+      ],
+      "connect": {
+        "mail": "founders@tvshowtime.com",
+        "facebook": "www.facebook.com/tvshowtime",
+        "twitter": "www.twitter.com/tvshowtime"
+      }
+    },
+    {
+      "name": "WeCook",
+      "website": "www.wecook.fr",
+      "logo": "images/logo/startuplogo.png",
+      "status": "active",
+      "season": "season2",
+      "tagline": "WeCook help you to plan your family week of meals and grocery list with highly personalized recommendation",
+      "tags": ["the industry"],
+      "info": "to be filled up for each startup",
+      "team": [
+        "name CTO", "name CEO", "name CFO"
+      ],
+      "connect": {
+        "mail": "contact@wecook.fr",
+        "facebook": "https://www.facebook.com/wecook.fr",
+        "twitter": "http://www.twitter.com/wecook_fr"
+      }
+    },
+    {
+      "name": "Bankin'",
+      "website": "www.bankin.com",
+      "logo": "images/logo/startuplogo.png",
+      "status": "active",
+      "season": "season1",
+      "tagline": "La meilleure App pour gérer ses finances.",
+      "tags": ["the industry"],
+      "info": "to be filled up for each startup",
+      "team": [
+        "name CTO", "name CEO", "name CFO"
+      ],
+      "connect": {
+        "facebook": "https://www.facebook.com/ilovebankin",
+        "twitter": "https://twitter.com/bankin"
+      }
+    },
+    {
+      "name": "Beansight",
+      "website": "www.beansight.com",
+      "logo": "images/logo/startuplogo.png",
+      "status": "dead",
+      "season": "season1",
+      "tagline": "A social network dedicated to predictions. Users can prove their expertise in dedicated fields thanks to their accuracy in forecast.",
+      "tags": ["the industry"],
+      "info": "to be filled up for each startup",
+      "team": [
+        "name CTO", "name CEO", "name CFO"
+      ],
+      "connect": {
+        "facebook": "https://www.facebook.com/Beansight",
+        "twitter": "https://twitter.com/beansight",
+        "angelist": "https://angel.co/beansight"
+      }
+    },
+    {
+      "name": "Dabla",
+      "website": "www.dabla.com",
+      "logo": "images/logo/startuplogo.png",
+      "status": "active",
+      "season": "season1",
+      "tagline": "Dabla keeps you connected with your friends & family. Cross-device apps as easy to use as SMS and especially made for groups.",
+      "tags": ["the industry"],
+      "info": "to be filled up for each startup",
+      "team": [
+        "name CTO", "name CEO", "name CFO"
+      ],
+      "connect": {
+        "mail": "pad@dabla.com",
+        "facebook": "https://www.facebook.com/pages/dabla/216622138361691",
+        "twitter": "https://twitter.com/godabla"
+      }
+    },
+    {
+      "name": "docTrackr",
+      "website": "doctrackr.com",
+      "logo": "images/logo/startuplogo.png",
+      "status": "exited",
+      "season": "season1",
+      "tagline": "docTrackr helps businesses keep their documents safe and under control, wherever they're stored, whomever they're shared with.",
+      "tags": ["the industry"],
+      "info": "to be filled up for each startup",
+      "team": [
+        "name CTO", "name CEO", "name CFO"
+      ],
+      "connect": {
+        "mail": "contact@doctrackr.com",
+        "facebook": "https://www.facebook.com/doctrackrapp",
+        "twitter": "http://twitter.com/docTrackr",
+        "linkedin": "http://www.linkedin.com/company/1802229"
+      }
+    },
+    {
+      "name": "Itipic",
+      "website": "",
+      "logo": "images/logo/startuplogo.png",
+      "status": "dead",
+      "season": "season1",
+      "tagline": "",
+      "tags": ["the industry"],
+      "info": "to be filled up for each startup",
+      "team": [
+        "name CTO", "name CEO", "name CFO"
+      ],
+      "connect": {}
+    },
+    {
+      "name": "Kawet",
+      "website": "madebykawet.com",
+      "logo": "images/logo/startuplogo.png",
+      "status": "exited",
+      "season": "season1",
+      "tagline": "All-in-one solution to create & manage native apps for your enterprise.",
+      "tags": ["the industry"],
+      "info": "to be filled up for each startup",
+      "team": [
+        "name CTO", "name CEO", "name CFO"
+      ],
+      "connect": {
+        "mail": "hello@madebykawet.com",
+        "facebook": "http://facebook.com/madebykawet",
+        "twitter": "http://www.twitter.com/madebykawet",
+        "angelist": "http://angel.co/kawet",
+        "linkedin": "http://www.linkedin.com/companies/kawet"
+      }
+    },
+    {
+      "name": "Mesagraph",
+      "website": "www.mesagraph.com",
+      "logo": "images/logo/startuplogo.png",
+      "status": "exited",
+      "season": "season1",
+      "tagline": "Mesagraph unlocks the value contained in online conversations.",
+      "tags": ["the industry"],
+      "info": "to be filled up for each startup",
+      "team": [
+        "name CTO", "name CEO", "name CFO"
+      ],
+      "connect": {
+        "facebook": "http://www.facebook.com/Mesagraph",
+        "twitter": "http://www.twitter.com/Mesagraph"
+      }
+    },
+    {
+      "name": "P1Security",
+      "website": "www.p1sec.com",
+      "logo": "images/logo/startuplogo.png",
+      "status": "active",
+      "season": "season1",
+      "tagline": "Security for Mobile, Telecom and Core Networks.",
+      "tags": ["the industry"],
+      "info": "to be filled up for each startup",
+      "team": [
+        "name CTO", "name CEO", "name CFO"
+      ],
+      "connect": {}
+    },
+    {
+      "name": "PrepMyFuture // Everlearn",
+      "website": "www.everlearn-technology.com",
+      "logo": "images/logo/startuplogo.png",
+      "status": "active",
+      "season": "season1",
+      "tagline": "adaptive learning technology",
+      "tags": ["the industry"],
+      "info": "to be filled up for each startup",
+      "team": [
+        "name CTO", "name CEO", "name CFO"
+      ],
+      "connect": {
+        "mail": "contact@prepmyfuture.com",
+        "facebook": "http://facebook.com/prepmyfuture",
+        "twitter": "http://www.twitter.com/prepmyfuture",
+        "angelist": "http://www.angelist.co/prepmyfuture"
+      }
+    },
+    {
+      "name": "Skerou",
+      "website": "skerou.com",
+      "logo": "images/logo/startuplogo.png",
+      "status": "active",
+      "season": "season1",
+      "tagline": "Je suis une appli mobile gratuite pour préparer vos courses et bénéficier de promotions exclusives, grâce à l'analyse de votre ticket de caisse de supermarché.",
+      "tags": ["the industry"],
+      "info": "to be filled up for each startup",
+      "team": [
+        "name CTO", "name CEO", "name CFO"
+      ],
+      "connect": {
+        "mail": "contact@skerou.com",
+        "facebook": "http://facebook.com/skerou",
+        "twitter": "http://www.twitter.com/skerou",
+        "angelist": "http://www.angelist.co/purchease",
+        "linkedin": "http://www.linkedin.com/skerou"
+      }
+    },
+    {
+      "name": "Studyka",
+      "website": "www.studyka.com",
+      "logo": "images/logo/startuplogo.png",
+      "status": "active",
+      "season": "season1",
+      "tagline": "Studyka organizes student challenges across the globe to connect student teams with companies and identify the leaders of tomorrow!",
+      "tags": ["the industry"],
+      "info": "to be filled up for each startup",
+      "team": [
+        "name CTO", "name CEO", "name CFO"
+      ],
+      "connect": {
+        "facebook": "http://www.facebook.com/studyka",
+        "twitter": "https://twitter.com/studyka"
+      }
+    },
+    {
+      "name": "Zifiz",
+      "website": "",
+      "logo": "images/logo/startuplogo.png",
+      "status": "dead",
+      "season": "season1",
+      "tagline": "",
+      "tags": ["the industry"],
+      "info": "to be filled up for each startup",
+      "team": [
+        "name CTO", "name CEO", "name CFO"
+      ],
+      "connect": {}
+    }
+  ]
+}

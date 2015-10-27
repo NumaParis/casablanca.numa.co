@@ -1,0 +1,306 @@
+<!doctype html><html ng-app="Camping" lang="en"><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content=""><meta name="author" content=""><title>STARTUPS</title><link href="css/style.css" rel="stylesheet"><link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700,900,400italic,600italic" rel="stylesheet" type="text/css"><script src="assets/angular/angular.min.js"></script><script src="assets/angular/angular-animate.min.js"></script><script src="js/startups.js"></script><style>b {
+          font-weight: bold;
+        }
+
+        i {
+          font-style: italic;
+        }
+
+        .item--clip .demo {
+          width: 200px;
+          height: 250px;
+        }
+
+        .item--clip .has-mask {
+          position: absolute;
+          clip: rect(10px, 190px, 190px, 10px);
+        }
+
+        .item--css-clip-path img {
+          -webkit-clip-path: circle(100px at center);
+          -moz-clip-path: circle(100px, 100px, 100px);
+          clip-path: circle(100px, 100px, 100px);
+        }
+
+        .item--svg-clip-path-svg image,
+        .item--svg-clip-path-html img {
+          clip-path: url(#clipping);
+        }
+
+        .item--css-mask img {
+          mask-image: url(http://img-fotki.yandex.ru/get/9492/5091629.9d/0_80e74_9f303e3d_M.png), linear-gradient(-45deg, black 20%, transparent 50%);
+          mask-repeat: space;
+        }
+
+        .item--svg-mask-html img,
+        .item--svg-mask-svg image {
+          mask: url(#masking);
+        }
+
+        .item--css-background-clip .demo {
+          width: 200px;
+          height: 200px;
+          background: url(http://img-fotki.yandex.ru/get/5607/5091629.6b/0_612e6_b9039c0d_M.jpg) no-repeat;
+          -webkit-text-fill-color: transparent;
+          -webkit-background-clip: text;
+        }
+
+        .item--svg-fill text {
+          fill: url(#pattern);
+        }
+
+        .demo,
+        #clipping,
+        #masking text {
+          font: bold italic 7em/1.5 Georgia;
+        }
+
+        /* Common 
+        ------------------------------------------- */
+        BODY {
+          font: 12px/1.4 "Trebuchet MS", Arial, sans-serif;
+        }
+
+        A {
+          color: tomato;
+        }
+
+        H1, H2, H3, H4 {
+          margin-bottom: 1rem;
+          font-family: Georgia, serif;
+          line-height: 1.4;
+        }
+
+        H1 {
+          position: relative;
+          margin-bottom: 2rem;
+          padding-bottom: 1rem;
+          border-bottom: 1px solid #CCC;
+          text-align: center;
+          text-shadow: 1px 1px 0 white, 2px 2px 0 #555;
+          font-size: 4em;
+          font-style: italic;
+        }
+        H1:after {
+          content: "Live demo";
+          position: absolute;
+          margin-left: 5px;
+          padding: 1px 5px;
+          vertical-align: top;
+          border-radius: 5px;
+          background: paleturquoise;
+          white-space: nowrap;
+          text-shadow: none;
+          font-size: 1rem;
+          color: #FFF;
+        }
+
+        H2 {
+          padding-bottom: .3rem;
+          border-bottom: 1px solid #333;
+          font-size: 2.8em;
+          color: #333;
+        }
+
+        H3 {
+          text-shadow: 1px 1px 0 white, 2px 2px 0 #CCC;
+          font-size: 2.5em;
+          font-style: italic;
+          color: #777;
+        }
+
+        H4 {
+          font-size: 1.6em;
+          font-style: italic;
+          color: #999;
+        }
+
+        code {
+          display: block;
+          position: relative;
+          margin-bottom: 1rem;
+          overflow: auto;
+          max-width: 90%;
+          padding: 35px 10px 7px;
+          border-radius: 5px;
+        }
+        .comment code {
+          display: inline-block;
+          margin: 0;
+          padding: 2px 5px;
+          vertical-align: middle;
+          background: #EEE;
+          color: #777;
+        }
+        code:before {
+          left: 0;
+          right: 0;
+          top: 0;
+          height: 25px;
+          line-height: 25.2px;
+          padding-left: 10px;
+          position: absolute;
+          font-weight: bold;
+          font-style: italic;
+        }
+        .comment code:before {
+          content: none;
+        }
+
+        .code--css {
+          background: #f7edba;
+        }
+        .code--css:before {
+          content: "CSS";
+          background: #f2e18c;
+          color: #8a750f;
+        }
+
+        .code--svg {
+          background: #e6f4be;
+        }
+        .code--svg:before {
+          content: "SVG";
+          background: #d6ec93;
+          color: #678217;
+        }
+
+        .svg-defs {
+          position: absolute;
+          width: 0;
+          height: 0;
+        }
+
+        .wrapper {
+          width: 90%;
+          min-width: 500px;
+          max-width: 800px;
+          margin: 0 auto;
+          padding: 2rem 0;
+          conter-reset: mylist;
+        }
+        .wrapper:after {
+          content: '';
+          display: table;
+          width: 100%;
+          clear: both;
+        }
+
+        .item {
+          position: relative;
+          margin-bottom: 2em;
+          padding-bottom: 2em;
+          padding-right: 3em;
+          border-bottom: 1px solid #DDD;
+          counter-increment: mylist;
+        }
+        .item:before {
+          content: counter(mylist);
+          position: absolute;
+          right: 0;
+          top: 0;
+          font: 2rem/1 Georgia, serif;
+          color: #EEE;
+        }
+        .item:after {
+          content: '';
+          display: table;
+          width: 100%;
+        }
+
+        .demo {
+          position: relative;
+          float: left;
+          margin-right: 30px;
+        }
+        .demo:before {
+          content: '';
+          display: block;
+          position: absolute;
+          z-index: -2;
+          top: 0;
+          right: 0;
+          bottom: 0;
+          left: 0;
+          background: url(http://img-fotki.yandex.ru/get/5607/5091629.6b/0_612e6_b9039c0d_M.jpg) no-repeat;
+          opacity: 0;
+          transition: .7s;
+        }
+        .item:hover .demo:before {
+          opacity: .4;
+        }
+
+        .text {
+          padding-left: 230px;
+        }
+
+        /* Browsers
+        ------------------------------- */
+        .browsers {
+          margin-top: 1.5rem;
+        }
+
+        .browser {
+          display: inline-block;
+          opacity: .2;
+        }
+
+        .has-support {
+          opacity: 1;
+        }
+
+        .browser:before {
+          content: "";
+          display: inline-block;
+          width: 24px;
+          height: 24px;
+          margin-right: 7px;
+          background: url(http://yoksel.github.io/assets/img/sprite-browsers.png) 0 0 no-repeat;
+          vertical-align: middle;
+        }
+
+        .firefox:before {
+          background-position: 0 0;
+        }
+
+        .chrome:before {
+          background-position: -30px 0;
+        }
+
+        .safari:before {
+          background-position: -60px 0;
+        }
+
+        .ie8:before {
+          background-position: -90px 0;
+        }
+
+        .ie9:before {
+          background-position: -90px 0;
+        }
+
+        .opera-13:before {
+          background-position: -120px 0;
+        }
+
+        .opera-12:before {
+          background-position: -150px 0;
+        }
+
+        .opera-mob:before {
+          background-position: -150px 0;
+        }
+
+        .opera-mini:before {
+          background-position: -150px 0;
+        }</style></head><body><div style="width:200px; margin:100 auto; outline:2px solid red"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" id="Layer_1" x="0px" y="0px" width="326.731px" height="78.415px" viewbox="0 0 -326.731 -78.415" enable-background="new 0 0 326.731 78.415" xml:space="preserve"><rect fill="#010101" width="26.139" height="78.415"><polygon fill="#010101" points="32.673 78.415 58.812 78.415 58.812 0 32.673 13.069 "><polygon fill="#010101" points="78.416 0 104.554 0 104.554 78.415 78.416 65.346 "><polygon fill="#010101" points="137.227 65.346 111.089 78.415 111.089 0 137.227 0 "><rect x="300.593" fill="#010101" width="26.139" height="78.415"><polygon fill="#010101" points="294.06 78.415 267.921 65.346 267.921 13.069 294.06 0 "><polygon fill="#010101" points="215.645 0 189.507 13.069 189.507 78.415 215.645 78.415 "><polygon fill="#010101" points="248.318 78.415 222.18 78.415 222.18 13.069 248.318 0 "><rect x="156.832" fill="#010101" width="26.14" height="78.415"></svg></div><!-- ********* --><!--  
+
+    http://www.html5rocks.com/en/tutorials/masking/adobe/#toc-masking
+    http://habrahabr.ru/post/190246/
+    https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-mask-image
+    https://developer.mozilla.org/en-US/docs/Web/CSS/mask
+    http://thenittygritty.co/css-masking
+    http://stackoverflow.com/questions/18792402/css-webkit-mask-image
+    https://developer.apple.com/library/safari/documentation/InternetWeb/Conceptual/SafariVisualEffectsProgGuide/Masks/Masks.html
+    http://www.xiper.net/manuals/css-extensions/webkit/properties/webkit-mask.html
+    --></body></html>
