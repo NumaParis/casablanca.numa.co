@@ -2565,10 +2565,10 @@ body {
   width: 100%;
   height: 100%;
   font-family: 'Lato', 'Verdana', sans-serif;
-  color: #1a1a1a;
+  color: #FFFFFF;
   webkit-tap-highlight-color: rgba(255, 255, 255, 0.2);
   -webkit-font-smoothing: antialiased;
-  background-color: #fff58c;
+  background-color: #741967;
 }
 html {
   width: 100%;
@@ -2593,18 +2593,13 @@ li {
   vertical-align: middle;
 }
 .logo {
-  width: 260px;
+  max-width: 800px;
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
-@media screen and (min-width: 768px) {
-  .logo {
-    width: 360px;
-  }
-}
 .heading {
-  color: #46C1F0;
+  color: #FFFFFF;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -2642,12 +2637,12 @@ li {
   border-radius: 0;
 }
 .btn-apply {
-  color: #46C1F0;
+  color: #FFFFFF;
   margin-top: -83px;
   font-size: 2.5em;
 }
 .white {
-  color: #46C1F0;
+  color: #FFFFFF;
   font-weight: bold;
   padding: 10px;
   font-size: 1.4em;

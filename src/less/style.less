@@ -11,10 +11,10 @@ body {
     width: 100%;
     height: 100%;
     font-family: 'Lato', 'Verdana', sans-serif;
-    color: @dark;
+    color: @white;
     webkit-tap-highlight-color: fade(@light, 20%);
     -webkit-font-smoothing: antialiased;
-    background-color: @yellow;
+    background-color: @purple;
 }
 
 html {
@@ -50,13 +50,12 @@ ul, li { margin:0; padding: 0; }
 }
 
 .logo {
-    width: 260px;
-    @media screen and (min-width:@screen-sm) { width: 360px; }
+    max-width: 800px;
     .center-block;
 }
 
 .heading {
-    color: @cyan;
+    color: @white;
     .center-block;
     max-width: @screen-md;
     h1, h2 { line-height: 1em; }
@@ -80,13 +79,13 @@ ul, li { margin:0; padding: 0; }
 }
 
 .btn-apply {
-    color: @cyan;
+    color: @white;
     margin-top: -83px;
     font-size: 2.5em;
 }
 
 .white {
-    color: @cyan;
+    color: @white;
     font-weight: bold;
     padding: 10px;
     font-size: 1.4em;
